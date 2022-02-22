@@ -18,6 +18,7 @@ Three city type total rides, drivers, and fares are following:
 
 ## Summary:
 
+![TotalFare](https://github.com/bobocomfy/PyBer_Analysis/blob/main/analysis/PyBer_fare_eachcity_chart.png)
 There are three recommendations to CEO based on the PyBer Analysis:
 1. Since Urban has the highest number of return on investment, focus on rural city.
 2. Increase more drivers in rural city in order to meet high demand.
